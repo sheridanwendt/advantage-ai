@@ -1,0 +1,55 @@
+Copy this site (aiacquisition.com) and rebrand it to Advantage AI. 
+
+Brand Positioning: AI solutions and consulting company
+Mission: Give businesses an unfair advantage with AI-powered solutions
+Tone: Modern, sleek, professional, innovative
+Visual Identity:
+Logo: Minimalist, tech-forward, abstract AI symbol
+Colors: Dark tones (#000000, #1B1B1B) + highlight (#00AAFF)
+Fonts: Clean, modern sans-serif (for parent brand)
+Messaging: “Advantage AI helps businesses leverage AI for smarter, faster decisions.”
+Tagline: “Your AI Advantage.”
+Remove this block
+Sort these cards in this order: (
+Process Automation
+Natural Language Processing
+Predictive Analytics
+Machine Learning
+Computer Vision
+Customer Intelligence
+)
+Sort these cards in this order: (
+Process Automation
+Natural Language Processing
+Predictive Analytics
+Machine Learning
+Computer Vision
+Customer Intelligence
+)
+Sort the cards in the Solutions section in this order: (
+Process Automation
+Natural Language Processing
+Predictive Analytics
+Machine Learning
+Computer Vision
+Customer Intelligence
+)
+Add section called "Agents" with this content (Empower your business with a suite of AI agents 
+Recruit a digital workforce to automate your core business processes without the cost 
+
+What are AI Agents?
+Think of AI Agents as digital employees that are super smart, never sleep, never call in sick, and work for pennies on the dollar…
+
+You can set-up this "employee" to handle dozens of tasks at once, learn your business inside and out, and can get better at their job every single day.)
+add a section called "Agents" with this content (Empower your business with a suite of AI agents 
+Recruit a digital workforce to automate your core business processes without the cost 
+
+What are AI Agents?
+Think of AI Agents as digital employees that are super smart, never sleep, never call in sick, and work for pennies on the dollar…
+
+You can set-up this "employee" to handle dozens of tasks at once, learn your business inside and out, and can get better at their job every single day.) and add "Agents" to the navbar, linking it to this new Agents section.
+Ensure the "linkedin" button directs users to (https://www.linkedin.com/in/SheridanWendt)
+Ensure the navbar's mobile version / hamburger menu displays the same list as the desktop navbar (Solutions
+Process
+Agents
+Contact)
